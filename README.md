@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Pranav A.S
+Currently a Student in Digital Universty Kerala, learning Blockchain Technology.
+
 <!--
 **PranavAS22/PranavAS22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
