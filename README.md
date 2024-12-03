@@ -1,4 +1,4 @@
-#### Student in Digital Universty Kerala, learning Blockchain Technology.
+
 ![Student in Digital Universty Kerala, learning Blockchain Technology.](https://github.com/PranavAS22/PranavAS22/blob/main/profile.png)
 
 Hi, I'm Pranav. I recently completed a BSc in Computer Science, enhancing my web development and programming skills. Currently, I'm studying Blockchain Development at KBA,
