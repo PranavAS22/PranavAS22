@@ -1,4 +1,3 @@
-## Hi there 👋, my name is Pranav A.S
 #### Student in Digital Universty Kerala, learning Blockchain Technology.
 ![Student in Digital Universty Kerala, learning Blockchain Technology.](https://github.com/PranavAS22/PranavAS22/blob/main/profile.png)
 
