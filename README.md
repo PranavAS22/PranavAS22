@@ -2,7 +2,7 @@
 
 Hi, I'm Pranav. I recently completed a BSc in Computer Science, enhancing my web development and programming skills. Currently, I'm studying Blockchain Development at KBA,
 
-### Skills:<br> <br> [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg'  alt='linkedin' height='40'>] &nbsp; [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'  alt='linkedin' height='40'>]
+### Skills:<br> <br> [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg'  alt='linkedin' height='40'> &nbsp; [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'  alt='linkedin' height='40'>]
 
 - 🌱 I’m currently learning Full Stack Development 
 - 📫 How to reach me: pranavas420@gmail.com 
