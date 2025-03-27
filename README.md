@@ -8,7 +8,7 @@ Hi, I'm Pranav. I recently completed a BSc in Computer Science, enhancing my web
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg' alt='css3' height='40'> &nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' alt='javascript' height='40'> &nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg' alt='postman' height='40'> &nbsp;
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg' alt='express.js' height='40'> &nbsp;
+<img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black" alt="express.js">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg' alt='node.js' height='40'> &nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' alt='react.js' height='40'> &nbsp;
 
