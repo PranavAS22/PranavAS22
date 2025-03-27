@@ -12,7 +12,8 @@ Hi, I'm Pranav. I recently completed a BSc in Computer Science, enhancing my web
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg' alt='node.js' height='40'> &nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg' alt='react.js' height='40'> &nbsp;
 
-- 🌱 I’m currently learning Full Stack Development 
+-🌱 I have completed my Full Stack Development course and am now learning Blockchain technology.
+ 
 - 📫 How to reach me: pranavas420@gmail.com 
 
 
